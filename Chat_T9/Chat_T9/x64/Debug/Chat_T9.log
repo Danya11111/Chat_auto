@@ -1,0 +1,4 @@
+﻿  Graph.cpp
+C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\Chat_auto\Chat_T9\Chat_T9\Graph.cpp(21,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\Chat_auto\Chat_T9\Chat_T9\Graph.cpp(26,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Chat_T9.vcxproj -> C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\Chat_auto\Chat_T9\x64\Debug\Chat_T9.exe

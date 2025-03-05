@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|solutionrelative:Chat_T9\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|solutionrelative:Chat_T9\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\program.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|solutionrelative:Chat_T9\\program.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Chat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|solutionrelative:Chat_T9\\Chat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\TrieNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|solutionrelative:Chat_T9\\TrieNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|solutionrelative:Chat_T9\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|solutionrelative:Chat_T9\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|solutionrelative:Chat_T9\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{102DFCCF-B282-4E3D-A93C-AB77CCDCEFBE}|Chat_T9\\Chat_T9.vcxproj|solutionrelative:Chat_T9\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrieNode.h",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\TrieNode.h",
+              "RelativeDocumentMoniker": "Chat_T9\\TrieNode.h",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\TrieNode.h",
+              "RelativeToolTip": "Chat_T9\\TrieNode.h",
+              "ViewState": "AQIAADcAAAAAAAAAAAAqwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T08:34:10.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "program.cpp",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\program.cpp",
+              "RelativeDocumentMoniker": "Chat_T9\\program.cpp",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\program.cpp",
+              "RelativeToolTip": "Chat_T9\\program.cpp",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAqwGQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T08:32:38.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "program.h",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\program.h",
+              "RelativeDocumentMoniker": "Chat_T9\\program.h",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\program.h",
+              "RelativeToolTip": "Chat_T9\\program.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T08:32:25.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Graph.h",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Graph.h",
+              "RelativeDocumentMoniker": "Chat_T9\\Graph.h",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Graph.h",
+              "RelativeToolTip": "Chat_T9\\Graph.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T08:32:03.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graph.cpp",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Graph.cpp",
+              "RelativeDocumentMoniker": "Chat_T9\\Graph.cpp",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Graph.cpp",
+              "RelativeToolTip": "Chat_T9\\Graph.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAKUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T08:31:52.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Message.h",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Message.h",
+              "RelativeDocumentMoniker": "Chat_T9\\Message.h",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Message.h",
+              "RelativeToolTip": "Chat_T9\\Message.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T17:47:01.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chat.h",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Chat.h",
+              "RelativeDocumentMoniker": "Chat_T9\\Chat.h",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\Chat.h",
+              "RelativeToolTip": "Chat_T9\\Chat.h",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAowJAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T17:46:43.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\User.h",
+              "RelativeDocumentMoniker": "Chat_T9\\User.h",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\User.h",
+              "RelativeToolTip": "Chat_T9\\User.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T17:46:27.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\main.cpp",
+              "RelativeDocumentMoniker": "Chat_T9\\main.cpp",
+              "ToolTip": "C:\\Users\\Daniil Arkhipov\\source\\\u0420\u0435\u043F\u043E\u0437\u0438\u0442\u043E\u0440\u0438\u0438 \u043D\u0430 github Skillfactory\\Chat_auto\\Chat_T9\\Chat_T9\\main.cpp",
+              "RelativeToolTip": "Chat_T9\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T17:44:30.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
